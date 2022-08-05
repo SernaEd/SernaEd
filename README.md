@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eduardo Javier Serna Duarte, you can call me Lalo.
+- 👀 I’m interested in Software Development, right now web development.
+- 🌱 I’m currently learning more about dotNet and React.
+- 💞️ I’m looking to collaborate on anything related to python or game development.
+- 📫 How to reach me: send me a mail :)
